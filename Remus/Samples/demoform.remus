@@ -1,0 +1,4 @@
+out My Sample form:
+in fname First Name:
+in sname Surname:
+out result fname

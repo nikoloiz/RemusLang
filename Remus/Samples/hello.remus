@@ -1,0 +1,3 @@
+mset 1 Banikko
+out Hello,
+mread 1
